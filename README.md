@@ -83,7 +83,7 @@ npm install
 ### 3️⃣ Run the server
 
 ```bash
-npm run dev
+npm start
 ```
 
 ---
@@ -120,7 +120,6 @@ CORS_ORIGIN=*
 
 ## 💡 Future Enhancements
 
-* 🌍 Deploy on cloud (Render / Vercel)
 * 📊 Advanced analytics & charts
 * 📌 Drag-and-drop task board (Kanban)
 * 🔔 Notifications system
